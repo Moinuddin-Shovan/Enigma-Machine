@@ -2,7 +2,9 @@
 After running the program, you will prompted with-
 
 Enigma machine with 8 in-built rotors. Choose 3 from them.
+
 Has 3 reflectors. Choose one of them.
+
 Includes different plugboards. Choose as your wish.
 
 With the inputs above, An Enigma machine Setup is created.
